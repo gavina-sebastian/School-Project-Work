@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my page!
 
-You can use the [editor on GitHub](https://github.com/gavina-sebastian/School-Project-Work/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here are projects and other work I have done online for my high school classes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Scratch Work
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[ABC Castle Hunt!](https://scratch.mit.edu/projects/255551887/)
+[One Word Resolution](https://scratch.mit.edu/projects/279478374/)
+[Name Project](https://scratch.mit.edu/projects/238460296/)
+[ABC Project](https://scratch.mit.edu/projects/245424608/)
 
 ```markdown
 Syntax highlighted code block
