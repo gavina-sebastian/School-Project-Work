@@ -20,5 +20,3 @@ Here are projects and other work I have done online for my high school classes.
 
 ## Create things like these here:
 
-- ![Scratch Logo](/desktop/scratch.jpeg)
-  Format: ![Scratch.mit.edu](scratch.mit.edu)
