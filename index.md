@@ -16,6 +16,7 @@ Here are projects and other work I have done online for my high school classes.
 
 ### Python
 - [Turtle Art](https://repl.it/@gavina_sebastia/yeetTurtleArt)
+- [Rock, Paper, Scissors, Yeet, Dab, T-pose, Default Dance](https://repl.it/@gavina_sebastia/Rock-Paper-Scissors-Yeet-Dab-T-pose-Default-Dance)
 
 
 ## Create things like these here:
