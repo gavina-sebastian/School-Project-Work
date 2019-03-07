@@ -17,7 +17,9 @@ Here are projects and other work I have done online for my high school classes.
 ### Python
 - [Turtle Art](https://repl.it/@gavina_sebastia/yeetTurtleArt)
 - [Rock, Paper, Scissors, Yeet, Dab, T-pose, Default Dance](https://repl.it/@gavina_sebastia/Rock-Paper-Scissors-Yeet-Dab-T-pose-Default-Dance)
-
+- [Python Game Hub](https://repl.it/@gavina_sebastia/Python-Game-Hub)
 
 ## Create things like these here:
-
+-[Scratch - Block Based Programming](https://scratch.mit.edu/)
+-[Code.org - Block Based and Basic Programming](https://code.org/)
+-[Repl.it - Python and other Coding Languages Online](https://repl.it/)
