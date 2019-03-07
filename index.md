@@ -1,6 +1,6 @@
 ## Welcome to my page!
 
-Here are projects and other work I have done online for my high school classes.
+Here are projects and other work I have done online and in code for my high school classes.
 
 ### Scratch Work
 
