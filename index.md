@@ -20,6 +20,6 @@ Here are projects and other work I have done online for my high school classes.
 - [Python Game Hub](https://repl.it/@gavina_sebastia/Python-Game-Hub)
 
 ## Create things like these here:
--[Scratch - Block Based Programming](https://scratch.mit.edu/)
--[Code.org - Block Based and Basic Programming](https://code.org/)
--[Repl.it - Python and other Coding Languages Online](https://repl.it/)
+- [Scratch - Block Based Programming](https://scratch.mit.edu/)
+- [Code.org - Block Based and Basic Programming](https://code.org/)
+- [Repl.it - Python and other Coding Languages Online](https://repl.it/)
